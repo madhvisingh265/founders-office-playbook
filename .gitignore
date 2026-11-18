@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+shortlist_*.csv
+leads_with_emails.csv

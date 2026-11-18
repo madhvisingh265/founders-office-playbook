@@ -1,0 +1,8 @@
+name,profile_url,headline,summary,experience,education,location,years_experience,open_to_work
+Candidate A,https://example.com/a,Product Operations Manager,Owned product roadmap and operations for a Series A SaaS startup,Ran stakeholder reviews; SQL dashboards; go-to-market launches,B.Tech Computer Science,Ahmedabad,4,yes
+Candidate B,https://example.com/b,Business Analyst,Requirement gathering and reports,Business analyst at large IT services firm,B.E. Mechanical,Ahmedabad,3,yes
+Candidate C,https://example.com/c,Associate Product Manager,Product and process improvement at early-stage fintech,Analytics; roadmap; operations,MBA,Vadodara,3,yes
+Candidate D,https://example.com/d,Senior Product Ops,Product operations across 3 business units,Process design; stakeholder management; SQL,B.Tech Electronics,Surat,9,yes
+Candidate E,https://example.com/e,Product & Strategy,Founding team member at seed-stage startup,Product; operations; go-to-market; analytics,B.E. IT,Gandhinagar,2.5,yes
+Candidate F,https://example.com/f,Operations Lead,Operations and process for D2C brand,Process; stakeholder; operations,B.Tech Civil,Pune,5,no
+Candidate G,https://example.com/g,DevOps Engineer,Kubernetes and Terraform on AWS for a Series B startup,CI/CD pipelines; observability; Linux; Python,B.Tech CSE,Ahmedabad,4,yes
